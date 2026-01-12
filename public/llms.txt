@@ -1,0 +1,61 @@
+# Design Lab — Generative Engine Optimization Map
+
+> A עיצוב ויצירה business.
+
+---
+
+## Pages
+
+### Logos
+https://design-lab-7b4b9ebe.zappy5.app/logos
+Design Lab - Explore our creative logo design portfolio showcasing modern, professional branding solutions.
+
+### Info
+https://design-lab-7b4b9ebe.zappy5.app/info
+Learn about Design Lab's passion for creating stunning graphic designs, brand building, and copywriting services that elevate your brand identity and captivate your audience.
+
+### צור קשר
+https://design-lab-7b4b9ebe.zappy5.app/contact
+Get in touch with Design Lab. Contact us for inquiries about our design services. Email: Shira.got@gmail.com, Tel: +972-50-7872687
+
+### Choco Crush
+https://design-lab-7b4b9ebe.zappy5.app/portfolio-collections/my-portfolio/choco-crush
+Choco Crush portfolio page showcasing premium chocolate brand design with bold, playful, and fashion-forward identity. Features logo design, branding, and packaging work by Design Lab.
+
+### Bai Wei
+https://design-lab-7b4b9ebe.zappy5.app/portfolio-collections/my-portfolio/bai-wei
+Bai Wei - A fast-food chain rooted in traditional Chinese cuisine with bold and contemporary brand expression. Portfolio project by Design Lab showcasing visual identity, logo design, and brand applications.
+
+## Legal & Policy
+
+### Privacy Policy
+https://design-lab-7b4b9ebe.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://design-lab-7b4b9ebe.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://design-lab-7b4b9ebe.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Design Lab
+Design Lab is a business in the עיצוב ויצירה industry.
+
+## Target Audience
+General audience
+
+## Industry
+עיצוב ויצירה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://design-lab-7b4b9ebe.zappy5.app/sitemap.xml
+- **Robots.txt**: https://design-lab-7b4b9ebe.zappy5.app/robots.txt

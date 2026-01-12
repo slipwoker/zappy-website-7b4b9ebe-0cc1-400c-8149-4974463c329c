@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://design-lab-7b4b9ebe.zappy5.app/sitemap.xml
